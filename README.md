@@ -48,7 +48,12 @@ O arquivo Excel possui as seguintes abas principais:
 
 - Navegue até a aba Dashboard para interagir com os gráficos e filtros.
 
-### Autor
+### Image Example
 
+<div align>
+  <img src="https://github.com/user-attachments/assets/1dbf1b1f-895e-4df6-80e4-861225e3f6fa" width="600px" />
+  </div>
+
+### Autor
 Fabio Almeida 
 
